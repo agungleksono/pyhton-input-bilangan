@@ -1,0 +1,15 @@
+Program untuk menghitung bilangan yang diinputkan oleh user
+
+Cara penggunaan:
+- Input berapa banyak bilangan yang akan dihitung
+- Input bilangan pertama hingga bilangan terakhir sesuai dengan keinginan
+
+Output dari program ini adalah:
+- Mengurutkan bilangan yang diinputkan dari yang terkecil ke terbesar
+- Menghitung rata-rata dari bilangan yang diinputkan
+- Menghitung median dari bilangan yang diinputkan
+- Menghitung perkalian dari bilangan yang diinputkan
+
+Limitasi program:
+- Program tidak menerapkan error handling untuk inputan, sehingga ketika user menginputkan selain angka akan terjadi error
+- Setelah perhitungan selesai program akan selesai, sehingga harus menjalankan program kembali jika ingin menghitung lagi
